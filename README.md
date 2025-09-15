@@ -49,7 +49,7 @@ This project is a **Video Games Analysis Dashboard** built using **Power BI** to
 
 ## 📷 Dashboard Preview
 
-![Video Games Dashboard Preview]([Dashboard%20preview/Screenshot.png](https://github.com/Jayesh-501/Video_Game_Dashboard/blob/main/Video_Game_Dashboard.png))
+![Video Games Dashboard Preview](https://github.com/Jayesh-501/Video_Game_Dashboard/blob/main/Video_Game_Dashboard.png)
 
 ---
 
